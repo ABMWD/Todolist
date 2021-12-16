@@ -1,0 +1,33 @@
+.header{
+    position: relative;
+
+
+}
+body{
+    background-color: #d3dcf8;
+}
+.container {
+    background-color: #f8efd3;
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+
+}
+#todoForm input{
+    background-color: #ffffff;
+    border: 0;
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+    padding: 0 20px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+#btn {
+    background-color: rgb(74, 230, 157);
+    width: 45px;
+    height: 30px;
+    border-radius: 3px;
+    border: 0px;
+    
+}
